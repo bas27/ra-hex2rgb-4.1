@@ -1,4 +1,5 @@
 # React + Vite
+[![hex2rgb](https://github.com/bas27/ra-hex2rgb-4.1/actions/workflows/web.yml/badge.svg)](https://github.com/bas27/ra-hex2rgb-4.1/actions/workflows/web.yml)
 
 Конвертер цветов из HEX в RGB
 ===
